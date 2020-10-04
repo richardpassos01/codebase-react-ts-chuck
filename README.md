@@ -1,5 +1,4 @@
-Product Project
-https://product-project-frontend.herokuapp.com/
+Project
 
 
 
